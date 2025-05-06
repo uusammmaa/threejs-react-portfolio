@@ -11,6 +11,8 @@ A React + Three.js portfolio demo featuring a spinning cube and a rotating torus
 > - A more advanced rotating torus-knot scene with 3D text  
 > - OrbitControls for interactive camera movement
 
+[uusammmaa](https://github.com/uusammmaa)
+
 ## Demo
 
 <details>
@@ -20,4 +22,4 @@ A React + Three.js portfolio demo featuring a spinning cube and a rotating torus
   pnpm install
   pnpm run dev      # or `pnpm start` if using CRA
 
-[uusammmaa](https://github.com/uusammmaa)
+
