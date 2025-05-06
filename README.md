@@ -13,6 +13,9 @@ A React + Three.js portfolio demo featuring a spinning cube and a rotating torus
 
 [uusammmaa](https://github.com/uusammmaa)
 
+![image](https://github.com/user-attachments/assets/ea995231-ad67-4f5c-bff3-6437e11222f0)
+
+
 ## Demo
 
 <details>
