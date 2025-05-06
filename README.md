@@ -19,3 +19,5 @@ A React + Three.js portfolio demo featuring a spinning cube and a rotating torus
   ```bash
   pnpm install
   pnpm run dev      # or `pnpm start` if using CRA
+
+[uusammmaa](https://github.com/uusammmaa)
